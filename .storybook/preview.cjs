@@ -1,6 +1,6 @@
-import { themes } from '@strorybook/theming'
+import { themes } from '@storybook/theming'
 
-import '../src/Styles/global.css';
+import '../src/styles/global.css';
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
